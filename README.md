@@ -20,3 +20,8 @@ Captura de pantalla del Login (por defecto)
 
 Captura de pantalla del registro de usuarios
 
+![image](https://github.com/user-attachments/assets/fba7f9bd-8dea-4131-8388-52bec9dd0e10)
+
+- usuario: upt@gmail.com 
+- contraseña: 123
+
