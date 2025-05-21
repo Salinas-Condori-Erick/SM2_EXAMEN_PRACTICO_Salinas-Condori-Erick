@@ -25,7 +25,7 @@ Captura: pantalla del registro de usuarios
 - usuario: upt@gmail.com 
 - contraseña: 123
 
-Caotura: Visualizacion de catálogos 
+Captura: Visualizacion de catálogos 
 
 ![image](https://github.com/user-attachments/assets/35c3fe78-0be7-43de-9825-20009d2a8cb7)
 
