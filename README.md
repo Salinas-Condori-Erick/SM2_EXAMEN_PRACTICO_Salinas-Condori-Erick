@@ -2,6 +2,8 @@
 
 ## Alummno: Erick Javier Salinas Condori - 2020069046
 
+## Enlace: https://github.com/Salinas-Condori-Erick/SM2_EXAMEN_PRACTICO_Salinas-Condori-Erick 
+
 ## Descripción del Proyecto breve con las funcionalidades implementadas (2 historias). 
 
 Este proyecto es una aplicación web/plataforma de comercio electrónico orientada a la venta de productos y servicios, que permite a los usuarios (clientes y vendedores) registrarse, iniciar sesión, explorar catálogos de productos, y realizar acciones como comentar, buscar por categoría o realizar pagos seguros.
