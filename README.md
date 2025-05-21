@@ -29,4 +29,5 @@ Captura: Visualizacion de catálogos
 
 ![image](https://github.com/user-attachments/assets/35c3fe78-0be7-43de-9825-20009d2a8cb7)
 
+Se puede ver los productos, precio y la calificacion de algunos productos. 
 
