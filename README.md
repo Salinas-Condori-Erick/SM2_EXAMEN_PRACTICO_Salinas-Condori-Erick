@@ -14,14 +14,15 @@ Para este examen práctico se han implementado dos historias de usuario:
 
 ## Capturas de imágenes del APP de las 2 funcionaliades
 
-Captura de pantalla del Login (por defecto)
+Captura: pantalla del Login (por defecto)
 
 ![image](https://github.com/user-attachments/assets/e4ad4334-0e34-4720-82dc-1fb8fad14657)
 
-Captura de pantalla del registro de usuarios
+Captura: pantalla del registro de usuarios
 
 ![image](https://github.com/user-attachments/assets/fba7f9bd-8dea-4131-8388-52bec9dd0e10)
 
 - usuario: upt@gmail.com 
 - contraseña: 123
 
+Caotura: Visualizacion de catálogos 
