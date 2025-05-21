@@ -33,4 +33,5 @@ Se puede ver los productos, precio y la calificacion de algunos productos.
 
 ## Github Projects
 
-![image](https://github.com/user-attachments/assets/7ccb09b5-90d0-4fff-bb14-2fc515188ef8)
+![image](https://github.com/user-attachments/assets/5388351d-429c-4254-a22a-68d739ae17f1)
+
