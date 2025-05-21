@@ -1,4 +1,4 @@
-# SM2_EXAMEN_PRACTICO_Salinas-Condori-Erick
+![image](https://github.com/user-attachments/assets/3b8f00cc-3dae-4911-bb78-eb0a77f2f0b3)# SM2_EXAMEN_PRACTICO_Salinas-Condori-Erick
 
 ## Alummno: Erick Javier Salinas Condori - 2020069046
 
@@ -31,3 +31,6 @@ Captura: Visualizacion de catálogos
 
 Se puede ver los productos, precio y la calificacion de algunos productos. 
 
+## Github Projects
+
+![image](https://github.com/user-attachments/assets/7ccb09b5-90d0-4fff-bb14-2fc515188ef8)
