@@ -10,7 +10,7 @@ Para este examen práctico se han implementado dos historias de usuario:
 
 - Registro de Usuario: Permite a nuevos clientes y vendedores crear una cuenta ingresando sus datos personales.
 
-- Visualización de Catálogos de Productos: Los clientes pueden explorar un catálogo visual de productos con imágenes, precios y calificaciones.
+- Visualización de Catálogos de Productos: Los clientes pueden explorar un catálogo visual de productos con imágenes, precios y calificaciones, donde dandole click al producto podra ver los detalles de los mismos y poder ingresar un comentario y colocar su calificación.
 
 ## Capturas de imágenes del APP de las 2 funcionaliades
 
@@ -26,3 +26,7 @@ Captura: pantalla del registro de usuarios
 - contraseña: 123
 
 Caotura: Visualizacion de catálogos 
+
+![image](https://github.com/user-attachments/assets/35c3fe78-0be7-43de-9825-20009d2a8cb7)
+
+
