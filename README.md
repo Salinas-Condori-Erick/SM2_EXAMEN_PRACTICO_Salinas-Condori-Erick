@@ -8,7 +8,7 @@ Este proyecto es una aplicación web/plataforma de comercio electrónico orienta
 
 Para este examen práctico se han implementado dos historias de usuario:
 
-- Registro de Usuario: Permite a nuevos clientes y vendedores crear una cuenta ingresando sus datos personales. Incluye validación para evitar correos electrónicos duplicados.
+- Registro de Usuario: Permite a nuevos clientes y vendedores crear una cuenta ingresando sus datos personales.
 
 - Visualización de Catálogos de Productos: Los clientes pueden explorar un catálogo visual de productos con imágenes, precios y calificaciones, y pueden ordenarlos por calificación o precio.
 
