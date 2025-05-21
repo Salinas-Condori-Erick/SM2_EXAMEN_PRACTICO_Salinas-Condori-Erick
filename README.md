@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3b8f00cc-3dae-4911-bb78-eb0a77f2f0b3)# SM2_EXAMEN_PRACTICO_Salinas-Condori-Erick
+# EXAMEN U2 - SOLUCIONES MOVILES II
 
 ## Alummno: Erick Javier Salinas Condori - 2020069046
 
